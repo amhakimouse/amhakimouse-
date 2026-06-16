@@ -86,7 +86,7 @@ const me = {
 ---
 
 ## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/amhakimouse/amhakimouse/output/github-snake-dark.svg)
+![Snake](https://raw.githubusercontent.com/amhakimouse/amhakimouse-/output/github-snake-dark.svg)
 </div>
 
 ---
