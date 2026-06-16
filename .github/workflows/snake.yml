@@ -9,12 +9,15 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4          # ← ADD THIS
+      
       - uses: Platane/snk@v3
         with:
           github_user_name: amhakimouse
           outputs: |
             dist/github-snake.svg?palette=github-dark
             dist/github-snake-dark.svg?palette=github-dark&color_snake=39d353
+      
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
