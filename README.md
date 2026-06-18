@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=30D158&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+ML+Systems+%26+AI+Pipelines;FastAPI+%2B+React+%2B+Python+%2B+Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=30D158&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+AI+Automation+Solutions;Crafting+Scalable+Systems)](https://github.com/amhakimouse)
 
 # Hakim
 ### `AI Automation Engineer · Full-Stack Developer`
@@ -72,22 +72,22 @@ const me = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=amhakimouse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30d158&icon_color=30d158&text_color=8b949e" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhakimouse&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30d158&text_color=8b949e" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=amhakimouse&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30d158&icon_color=30d158&text_color=8b949e&rank_icon=percentile" alt="GitHub Stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amhakimouse&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=30d158&text_color=8b949e" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=amhakimouse&theme=github-dark-blue&hide_border=true&background=0d1117&ring=30d158&fire=30d158&currStreakLabel=30d158&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3)
+![GitHub Streak](https://streak-stats.demolab.com?user=amhakimouse&theme=github-dark-blue&hide_border=true&background=0d1117&ring=30d158&fire=30d158&currStreakLabel=30d158&sideLabels=8b949e)
 
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
-![Snake](https://raw.githubusercontent.com/amhakimouse/amhakimouse-/output/dist/github-snake-dark.svg)
-</div>
+
+![Snake](https://raw.githubusercontent.com/amhakimouse/amhakimouse/output/dist/github-snake-dark.svg)
 
 ---
 
@@ -95,14 +95,14 @@ const me = {
 
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
-| 🛡️ **Fraud Detection** | Production ML app detecting fraudulent credit card transactions | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/Fraud-Detection) |
-| 🎬 **Movie Recommendation** | Content-based engine using TF-IDF & Cosine Similarity | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/Movie-Recommendation-System) |
-| 📧 **Spam Mail Detection** | Logistic Regression + TF-IDF classifier with modern UI | FastAPI · React · TailwindCSS · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/spam-mail-detection) |
-| ✋ **Digit Recognition** | Draw on canvas → Keras MNIST model predicts the digit | TensorFlow · FastAPI · React · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/handwritten-digits-recognition) |
-| 💰 **Gold Price Prediction** | RandomForest forecasting GLD ETF prices (98.9% R²) | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/Gold-price-prediction) |
-| 🩺 **Diabetes Prediction** | SVM classifier trained on PIMA dataset (~77% accuracy) | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/Diabetes-Prediction) |
-| 📊 **Customer Churn** | RandomForest + probability gauge visualization | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/customer-churn-predictor) |
-| 🏡 **House Price Prediction** | XGBoost real-estate valuation (0.83 R²) with Nginx | XGBoost · FastAPI · React · Nginx · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/California-house-price-prediction) |
+| 🛡️ **Fraud Detection** | Production ML app detecting fraudulent credit card transactions | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 🎬 **Movie Recommendation** | Content-based engine using TF-IDF & Cosine Similarity | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 📧 **Spam Mail Detection** | Logistic Regression + TF-IDF classifier with modern UI | FastAPI · React · TailwindCSS · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| ✋ **Digit Recognition** | Draw on canvas → Keras MNIST model predicts the digit | TensorFlow · FastAPI · React · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 💰 **Gold Price Prediction** | RandomForest forecasting GLD ETF prices (98.9% R²) | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 🩺 **Diabetes Prediction** | SVM classifier trained on PIMA dataset (~77% accuracy) | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 📊 **Customer Churn** | RandomForest + probability gauge visualization | FastAPI · React · scikit-learn · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 🏡 **House Price Prediction** | XGBoost real-estate valuation (0.83 R²) with Nginx | XGBoost · FastAPI · React · Nginx · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
 
 ---
 
@@ -111,9 +111,9 @@ const me = {
 | Project | Description | Stack | Link |
 |--------|-------------|-------|------|
 | 📝 **Autoblog** | Full SEO automation — competitor analysis, article generation & social publishing | Python · React · PostgreSQL · Redis · Celery · Gemini API | 🔒 Private |
-| 🧑‍💼 **GoHR** | CV vectorization + AI agent for candidate scoring and interview scheduling | Python · RAG · Embedding · Gemini API · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/hr_assistant) |
-| 📜 **Bulkcertify** | Bulk certificate generator with AI design feature for event organizers | Laravel · React · CI/CD | [![Website](https://img.shields.io/badge/-bulkcertify.app-0d1117?style=flat-square&logo=vercel&logoColor=30d158)](https://bulkcertify.app/) |
-| 📑 **Auto Tender Writer** | 8-phase auditable tender evaluation pipeline using LLM + Python enforcer | FastAPI · LLM · Pydantic | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com/amhakimouse/auto-tender-writer) |
+| 🧑‍💼 **GoHR** | CV vectorization + AI agent for candidate scoring and interview scheduling | Python · RAG · Embedding · Gemini API · Docker | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
+| 📜 **Bulkcertify** | Bulk certificate generator with AI design feature for event organizers | Laravel · React · CI/CD | [![Website](https://img.shields.io/badge/-bulkcertify.app-0d1117?style=flat-square&logoColor=30d158)](https://bulkcertify.app) |
+| 📑 **Auto Tender Writer** | 8-phase auditable tender evaluation pipeline using LLM + Python enforcer | FastAPI · LLM · Pydantic | [![GitHub](https://img.shields.io/badge/-repo-0d1117?style=flat-square&logo=github&logoColor=30d158)](https://github.com) |
 
 ---
 
